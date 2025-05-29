@@ -1,5 +1,5 @@
 
-const apiKey = "AIzaSyBdhqMmNGYzXJ6WaDtQnudfPt7R5b4prM0"
+const apiKey = ""
 import { GoogleGenAI } from "@google/genai";
 
 const ai = new GoogleGenAI({ apiKey: apiKey });
